@@ -1,4 +1,4 @@
-# Tricks_Motivations_Inspiration
+# Learning Tricks_Motivations_Inspiration
 # Effective Learning :
 # How to learn effectively and fast. 
 # https://www.youtube.com/watch?v=yZFrSDjRvjk
