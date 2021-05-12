@@ -1,2 +1,2 @@
-# -Tricks_Motivations_Inspiration
+# Tricks_Motivations_Inspiration
 Effective Learning
